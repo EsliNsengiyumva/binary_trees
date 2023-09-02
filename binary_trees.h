@@ -6,7 +6,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <limits.h>
-O[O
+
 /**
  * struct binary_tree_s - Binary tree node
  *
